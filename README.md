@@ -7,7 +7,7 @@
 - [x] Back to Top Button. [Back2Top codePen](http://codepen.io/vanss472/details/meNGPV/)
 - [x] Simple Accordion. [Accordion codePen](http://codepen.io/vanss472/details/WQyQpO/)
 - [x] Create an content slider that accepts any number of slides. [Content Slider codePen](http://codepen.io/vanss472/details/dYQzKB/)
-- [x] Create an image slider that accepts any number of slides and changes them every 5 seconds.[Image Slider codePen](http://codepen.io/vanss472/details/OMLXZL/)
+- [x] Create an image slider that accepts any number of slides and changes them every 5 seconds. [Image Slider codePen](http://codepen.io/vanss472/details/OMLXZL/)
 - [ ] Create a sticky element that doesn't attach to the top of the screen until you scroll to its position.
 - [ ] AJAX submit a form, validate it server-side, and display those validation errors.
 - [ ] Validate form data on the client-side.
